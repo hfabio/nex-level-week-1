@@ -8,7 +8,7 @@ Projeto construído durante a semana "Next level week" com algumas modificaçõe
     2. [Frond-end](#front-end)
     3. [Mobile](#mobile)
 2. [Como rodar/executar o projeto](#como-rodar-o-projeto)
-3. [Agradecimentos](#acknowledgments/agradecimentos)
+3. [Agradecimentos](#agradecimentos)
 ___
 
 Este projeto consiste numa stack utilizando `TypeScript` em todas as pontas.
@@ -111,7 +111,7 @@ cd mobile
 yarn yarn start
 ```
 
-# Acknowledgments/Agradecimentos
+# Agradecimentos
 
 Aqui deixo uma mensagem de gratidão pela quantidade enorme de conhecimento adquirida com o desenvolvimento do projeto e por me possibilitar uma oportunidade de mergulhar mais a fundo no `react-native` com `expo`:
 
